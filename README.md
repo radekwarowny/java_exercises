@@ -1,5 +1,7 @@
 # java_exercises
 
+Java exercises 'Programming by Doing' composed by Graham Mitchell.
+
 # How to run
 
    1. Open a command prompt window and go to the directory where you saved the java program (MyFirstJavaProgram.java). Assume it's C:\.
